@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Oi! Eu sou a Mari
 
-<!--
-**misakimarii/misakimarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora em formação, com foco em **desenvolvimento web**, atuando tanto no **front-end** quanto no **back-end**.
 
-Here are some ideas to get you started:
+Atualmente trabalho com **JavaScript, Node.js, Java, Python, Django e MySQL**, participando de projetos colaborativos e aplicando boas práticas de versionamento com Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Java
+- Python
+- Django
+- MySQL
+- Git & GitHub
+
+---
+
+### 📌 Projetos em destaque
+- **Coony** — Projeto colaborativo do programa Transforme-se  
+  Atuação em prototipação de telas, front-end (HTML/CSS) e back-end com Django.
+
+---
+
+### 📫 Onde me encontrar
+- LinkedIn: 
+- GitHub: https://github.com/misakimarii
