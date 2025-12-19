@@ -26,5 +26,5 @@ Atualmente trabalho com **JavaScript, Node.js, Java, Python, Django e MySQL**, p
 ---
 
 ### 📫 Onde me encontrar
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/mariana-faria-4b099a2b7/
 - GitHub: https://github.com/misakimarii
