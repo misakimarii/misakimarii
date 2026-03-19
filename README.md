@@ -2,7 +2,7 @@
 
 Sou desenvolvedora em formação, com foco em **desenvolvimento web**, atuando tanto no **front-end** quanto no **back-end**.
 
-Atualmente trabalho com **JavaScript, Node.js, Java, Python, Django e MySQL**, participando de projetos colaborativos e aplicando boas práticas de versionamento com Git e GitHub.
+Atualmente trabalho com **JavaScript, Node.js, Java, Python, Django, AWS e MySQL**, participando de projetos colaborativos e aplicando boas práticas de versionamento com Git e GitHub.
 
 ---
 
